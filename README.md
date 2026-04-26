@@ -5,7 +5,7 @@
 **Custom WordPress development. Real experience. Plain English.**
 
 [![Website](https://img.shields.io/badge/Website-magicvalleycomputer.com-1a1a4e?style=for-the-badge&logo=wordpress&logoColor=white)](https://magicvalleycomputer.com)
-[![Email](https://img.shields.io/badge/Email-admin@magicvalleycomputer.com-f0c040?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:josh@magicvalleycomputer.com)
+[![Email](https://img.shields.io/badge/Contact-via_website-f0c040?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](https://magicvalleycomputer.com#contact)
 [![Twitter](https://img.shields.io/badge/X-@WhiteJoshuaL-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WhiteJoshuaL)
 
 </div>
@@ -16,21 +16,23 @@
 
 Professional web and AI tooling for small businesses. Hand-coded, no bloat, no page builder drama.
 
-- **Custom WordPress Themes & Plugins** — fast, maintainable, made to last
-- **Magic Valley Themes Pro** — drag-and-drop theme builder
+- **Custom WordPress themes & plugins** — fast, maintainable, made to last
+- **Drag-and-drop theme builder** — visual editing without the bloat
 - **Magic Valley AI Studio** — agentic tooling for solo operators and small teams
-- **MCP Fleet** — Model Context Protocol servers across Mac, Windows, and mobile
-- **Web & Digital Strategy** — full stack, marketing, SEO, branding
+- **MCP fleet** — Model Context Protocol servers across desktop and mobile
+- **Web & digital strategy** — full stack, marketing, SEO, branding
 
-## Featured Projects
+## Active Work
 
-| Project | What It Is | Status |
-|---------|-----------|--------|
-| [magic-valley-claude-mac-mcp](https://github.com/magicvalleycomputer/magic-valley-claude-mac-mcp) | Claude Mac MCP server with hot-reloadable package system. 16 tools across 5 packages: accessibility, window management, vision OCR, browser CDP, scripting | 🟢 v1.1.0 shipped |
-| [magic-valley-claude-dell-mcp](https://github.com/magicvalleycomputer/magic-valley-claude-dell-mcp) | Windows-side MCP fleet member with 53 tools | 🟢 Active |
-| [magic-valley-themes](https://github.com/magicvalleycomputer/magic-valley-themes) | WordPress drag-and-drop theme builder plugin | 🚧 Active |
-| mvc-admin | License server & sales dashboard hub | 🔜 Next |
-| ChatGPTBar | macOS menu bar app for ChatGPT | 🟢 Active |
+| Area | Status |
+|------|--------|
+| WordPress theme builder plugin | 🚧 Active |
+| Mac MCP server (16 tools, hot-reloadable packages) | 🟢 v1.1.0 shipped |
+| Windows MCP server | 🟢 Active |
+| Admin & licensing infrastructure | 🔜 Next |
+| macOS productivity utilities | 🟢 Active |
+
+> Project sources are private. Public releases will be linked here as they ship.
 
 ## Stack
 
