@@ -5,7 +5,7 @@
 **Custom WordPress development. Real experience. Plain English.**
 
 [![Website](https://img.shields.io/badge/Website-magicvalleycomputer.com-1a1a4e?style=for-the-badge&logo=wordpress&logoColor=white)](https://magicvalleycomputer.com)
-[![Email](https://img.shields.io/badge/Email-josh@magicvalleycomputer.com-f0c040?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:josh@magicvalleycomputer.com)
+[![Email](https://img.shields.io/badge/Email-admin@magicvalleycomputer.com-f0c040?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:josh@magicvalleycomputer.com)
 [![Twitter](https://img.shields.io/badge/X-@WhiteJoshuaL-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WhiteJoshuaL)
 
 </div>
