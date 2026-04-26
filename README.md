@@ -16,17 +16,21 @@
 
 **Joshua White** — owner-operator out of Gooding, Idaho.
 
-Twenty-five years of crossover between the screen and the shop floor:
+Twenty-five years of crossover between the screen and the shop floor.
 
-- 💻 IT, computer science, web development, marketing, graphic design, creative writing
-- 🚗 Automotive industry specialist
-- 🚜 Farming and ranching
-- 🏗️ Welding, fabrication, heavy equipment operation
-- 🛻 Professional driver, owner-operator
-- 🌾 Agriculture processing equipment prototyping
-- 🏢 Small business owner
+### On the screen
 
-Most "developers" haven't bent metal, run a section of pipe, hauled a load, or rebuilt a transmission. Most tradespeople haven't shipped a WordPress plugin or wired up a payment gateway. Magic Valley Computer is what happens when you've done both, for a long time.
+IT, computer science, web development, marketing, graphic design, creative writing. Custom WordPress plugins and themes. AI tooling. Anything from a one-page brochure site to a multi-tenant SaaS with payments.
+
+### On the shop floor
+
+- 🚗 **Automotive** — industry specialist work, plus custom hot rod and rat rod builds
+- 🏗️ **Welding, fabrication, machining** — design, prototype, fabricate, install
+- 🚜 **Agriculture** — farming, ranching, ag processing equipment design and prototyping
+- 🏭 **Industrial** — heavy equipment operation, process plant design and operations management
+- 🛻 **Transportation** — professional driver, owner-operator
+
+Most "developers" haven't bent metal, run a section of pipe, hauled a load, or rebuilt a transmission. Most tradespeople haven't shipped a WordPress plugin or wired up a payment gateway. **Magic Valley Computer is what happens when you've done both, for a long time.**
 
 ## What We Build
 
