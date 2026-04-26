@@ -2,34 +2,51 @@
 
 # Magic Valley Computer
 
-**Custom WordPress development. Real experience. Plain English.**
+**Plain English. Real experience. Hands-on across the screen and the shop floor.**
 
 [![Website](https://img.shields.io/badge/Website-magicvalleycomputer.com-1a1a4e?style=for-the-badge&logo=wordpress&logoColor=white)](https://magicvalleycomputer.com)
-[![Email](https://img.shields.io/badge/Contact-via_website-f0c040?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](https://magicvalleycomputer.com#contact)
 [![Twitter](https://img.shields.io/badge/X-@WhiteJoshuaL-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WhiteJoshuaL)
+[![Contact](https://img.shields.io/badge/Contact-via_website-f0c040?style=for-the-badge&logo=wordpress&logoColor=black)](https://magicvalleycomputer.com#contact)
 
 </div>
 
 ---
 
+## Who's Behind This
+
+**Joshua White** — owner-operator out of Gooding, Idaho.
+
+Twenty-five years of crossover between the screen and the shop floor:
+
+- 💻 IT, computer science, web development, marketing, graphic design, creative writing
+- 🚗 Automotive industry specialist
+- 🚜 Farming and ranching
+- 🏗️ Welding, fabrication, heavy equipment operation
+- 🛻 Professional driver, owner-operator
+- 🌾 Agriculture processing equipment prototyping
+- 🏢 Small business owner
+
+Most "developers" haven't bent metal, run a section of pipe, hauled a load, or rebuilt a transmission. Most tradespeople haven't shipped a WordPress plugin or wired up a payment gateway. Magic Valley Computer is what happens when you've done both, for a long time.
+
 ## What We Build
 
-Professional web and AI tooling for small businesses. Hand-coded, no bloat, no page builder drama.
+Practical tooling for small businesses that actually need it.
 
-- **Custom WordPress themes & plugins** — fast, maintainable, made to last
-- **Drag-and-drop theme builder** — visual editing without the bloat
+- **Custom WordPress themes and plugins** — fast, maintainable, hand-coded
+- **Drag-and-drop theme builder** — visual editing without the page-builder bloat
 - **Magic Valley AI Studio** — agentic tooling for solo operators and small teams
 - **MCP fleet** — Model Context Protocol servers across desktop and mobile
-- **Web & digital strategy** — full stack, marketing, SEO, branding
+- **Web and digital strategy** — full stack, marketing, SEO, branding
+- **Industry-specific tooling** — automotive, agriculture, small business operations
 
 ## Active Work
 
 | Area | Status |
 |------|--------|
-| WordPress theme builder plugin | 🚧 Active |
+| WordPress drag-and-drop theme builder | 🚧 Active |
 | Mac MCP server (16 tools, hot-reloadable packages) | 🟢 v1.1.0 shipped |
 | Windows MCP server | 🟢 Active |
-| Admin & licensing infrastructure | 🔜 Next |
+| Admin and licensing infrastructure | 🔜 Next |
 | macOS productivity utilities | 🟢 Active |
 
 > Project sources are private. Public releases will be linked here as they ship.
@@ -48,8 +65,7 @@ Professional web and AI tooling for small businesses. Hand-coded, no bloat, no p
 
 ---
 
-> 20+ years of IT, web development, graphic design, and marketing.
-> Based in Gooding, Idaho. Working with real businesses — automotive, agriculture, small business.
+> Working with real businesses — automotive, agriculture, small business.
 > Straight talk, clean code, no help desk scripts.
 
 **[magicvalleycomputer.com](https://magicvalleycomputer.com)**
